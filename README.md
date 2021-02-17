@@ -1,20 +1,14 @@
 ### README👨🏻‍💻
 
-<!--
-**cooper1x/cooper1x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=cooper1x&show_icons=true">](https://github-readme-stats.vercel.app/api?username=cooper1x&show_icons=true)
+I'm Cooper, a Front-end development engineer from Wuhan, China.
+- 🔭 HTML/CSS/JavaScript/Nodejs/Vue.js,a little bit PHP/Python
+- 🌱 I’m currently DevOps/Serverless
+- 👯 I’m looking to collaborate on Mini Program Cloud Development Challenge.
+- 🤔 I’m looking for help with UI design.
+- 💬 Ask me about Front-end development.
+- 📫 How to reach me: Y29vcGVyeEBmb3htYWlsLmNvbQ==(base64 decoding)
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![cooper1x's GitHub stats](https://github-readme-stats.vercel.app/api?username=cooper1x&show_icons=true)
+- ⚡ Fun fact: I am an amateur singer and I like raising cats, reading and writing.
 
 ![PV](https://visitor-badge.glitch.me/badge?page_id=cooper1x.readme)
