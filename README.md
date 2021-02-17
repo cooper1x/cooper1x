@@ -1,6 +1,6 @@
 ### Hey,Cooper here!👨🏻‍💻
 
-[<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=cooper1x&show_icons=true">](https://github-readme-stats.vercel.app/api?username=cooper1x&show_icons=true)
+[<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=cooper1x&show_icons=true">](https://github-readme-stats.vercel.app/api?username=cooper1x&show_icons=true)
 I'm Cooper, a Front-end development engineer from Wuhan, China.
 - 🔭 HTML/CSS/JavaScript/Nodejs/Vue.js,a little bit PHP/Python
 - 🌱 I’m currently DevOps/Serverless
