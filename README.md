@@ -14,7 +14,7 @@ I'm Cooper, a Front-end development engineer from Wuhan, China.
 ![PV](https://visitor-badge.glitch.me/badge?page_id=cooper1x.readme)
 ---
 
-#### :sparkles: My followers
+#### :sparkles: My following
 
 <!--START_SECTION:top-followers-->
 <table>
