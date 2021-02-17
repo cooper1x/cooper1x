@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![cooper1x's GitHub stats](https://github-readme-stats.vercel.app/api?username=cooper1x&show_icons=true)
+![](https://visitor-badge.glitch.me/badge?page_id=cooper1x.readme)
