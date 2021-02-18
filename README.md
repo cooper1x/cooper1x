@@ -1,7 +1,6 @@
 ### Hey,Cooper here!👨🏻‍💻
 
 [<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=cooper1x&show_icons=true">](https://github-readme-stats.vercel.app/api?username=cooper1x&show_icons=true)
-[<img align="right" width="45%" src="https://count.getloli.com/get/@cooper1x?theme=rule34">](https://count.getloli.com/get/@cooper1x?theme=rule34)
 I'm Cooper, a Front-end development engineer from Wuhan, China.
 - 🔭 HTML/CSS/JavaScript/Nodejs/Vue.js,a little bit PHP/Python
 - 🌱 I’m currently DevOps/Serverless
@@ -11,7 +10,7 @@ I'm Cooper, a Front-end development engineer from Wuhan, China.
 - 📫 How to reach me: Y29vcGVyeEBmb3htYWlsLmNvbQ==(base64 decoding)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I am an amateur singer and I like raising cats, reading and writing.
-
+[<img align="right" width="45%" src="https://count.getloli.com/get/@cooper1x?theme=rule34">](https://count.getloli.com/get/@cooper1x?theme=rule34)
 ---
 
 #### :sparkles: My following
