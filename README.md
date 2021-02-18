@@ -71,7 +71,7 @@ I'm Cooper, a Front-end development engineer from Wuhan, China.
 
 ---
 
-[<img align="right" width="33%" src="https://count.getloli.com/get/@cooper1x?theme=rule34">](https://count.getloli.com/get/@cooper1x?theme=rule34)
+[<img align="left" width="50%" src="https://count.getloli.com/get/@cooper1x?theme=rule34">](https://count.getloli.com/get/@cooper1x?theme=rule34)
 
 
 
