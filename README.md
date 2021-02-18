@@ -11,8 +11,7 @@ I'm Cooper, a Front-end development engineer from Wuhan, China.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I am an amateur singer and I like raising cats, reading and writing.
 
-![PV](https://visitor-badge.glitch.me/badge?page_id=cooper1x.readme)
-![](https://count.getloli.com/get/@cooper1x?theme=rule34)
+![moe-girls](https://count.getloli.com/get/@cooper1x?theme=rule34)
 ---
 
 #### :sparkles: My following
@@ -72,3 +71,8 @@ I'm Cooper, a Front-end development engineer from Wuhan, China.
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
+
+<!--
+注释
+![PV](https://visitor-badge.glitch.me/badge?page_id=cooper1x.readme)
+-->
