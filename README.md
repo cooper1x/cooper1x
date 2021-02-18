@@ -8,8 +8,7 @@ I'm Cooper, a Front-end development engineer from Wuhan, China.
 - 🤔 I’m looking for help with **UI design**.
 - 💬 Ask me about **Front-end development**.
 - 📫 How to reach me: Y29vcGVyeEBmb3htYWlsLmNvbQ==
-- ⚡ Fun fact: I am an amateur singer and I like raising cats, reading and writing.
-[<img align="right" width="33%" src="https://count.getloli.com/get/@cooper1x?theme=rule34">](https://count.getloli.com/get/@cooper1x?theme=rule34)
+- ⚡ Fun fact: I am an amateur singer.
 ---
 
 #### :sparkles: My following
@@ -69,7 +68,7 @@ I'm Cooper, a Front-end development engineer from Wuhan, China.
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
-
+[<img align="right" width="33%" src="https://count.getloli.com/get/@cooper1x?theme=rule34">](https://count.getloli.com/get/@cooper1x?theme=rule34)
 
 <!--
 注释
