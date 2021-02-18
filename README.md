@@ -2,15 +2,14 @@
 
 [<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=cooper1x&show_icons=true">](https://github-readme-stats.vercel.app/api?username=cooper1x&show_icons=true)
 I'm Cooper, a Front-end development engineer from Wuhan, China.
-- 🔭 HTML/CSS/JavaScript/Nodejs/Vue.js,a little bit PHP/Python
-- 🌱 I’m currently DevOps/Serverless
+- 🔭 **HTML/CSS/JavaScript/Nodejs/Vue.js**
+- 🌱 I’m currently **DevOps/Serverless**
 - 👯 I’m looking to collaborate on Mini Program Cloud Development Challenge.
-- 🤔 I’m looking for help with UI design.
-- 💬 Ask me about Front-end development.
-- 📫 How to reach me: Y29vcGVyeEBmb3htYWlsLmNvbQ==(base64 decoding)
-- 😄 Pronouns: ...
+- 🤔 I’m looking for help with **UI design**.
+- 💬 Ask me about **Front-end development**.
+- 📫 How to reach me: Y29vcGVyeEBmb3htYWlsLmNvbQ==
 - ⚡ Fun fact: I am an amateur singer and I like raising cats, reading and writing.
-[<img align="right" width="45%" src="https://count.getloli.com/get/@cooper1x?theme=rule34">](https://count.getloli.com/get/@cooper1x?theme=rule34)
+[<img align="right" width="33%" src="https://count.getloli.com/get/@cooper1x?theme=rule34">](https://count.getloli.com/get/@cooper1x?theme=rule34)
 ---
 
 #### :sparkles: My following
@@ -71,10 +70,9 @@ I'm Cooper, a Front-end development engineer from Wuhan, China.
 </table>
 <!--END_SECTION:top-followers-->
 
----
-![moe-girls](https://count.getloli.com/get/@cooper1x?theme=rule34)
 
 <!--
 注释
 ![PV](https://visitor-badge.glitch.me/badge?page_id=cooper1x.readme)
+- 😄 Pronouns: ...
 -->
